@@ -8,6 +8,7 @@
 - [Dustin Curtis](http://dcurt.is/)  
 - [Tom Preston-Werner](http://tom.preston-werner.com/)  
 - [xkcd.com](http://xkcd.com/)  
+- [DailyJS](http://dailyjs.com)  
 - [Journal](http://colly.com/)  
 - [xkcd](http://blog.xkcd.com)  
 - [MAKE](http://blog.makezine.com)  
@@ -25,6 +26,7 @@
 - [52 Tiger](http://52tiger.net)  
 - [Alfred App - Mac OS X Quicklaunch Application](http://blog.alfredapp.com)  
 - [Brett Terpstra](http://brettterpstra.com/)  
+- [Indexed](http://thisisindexed.com)  
 - [Cultured Code Blog](http://culturedcode.com/things/blog)  
 - [GigaOM](http://gigaom.com)  
 - [FlowingData](http://flowingdata.com)  
@@ -47,8 +49,10 @@
 - [Laughing Squid](http://laughingsquid.com)  
 - [How-To Geek](http://www.howtogeek.com)  
 - [Webmonkey](http://www.webmonkey.com)  
+- [Co.Design](http://www.fastcodesign.com)  
 - [Line25](http://line25.com)  
 - [Raspberry Pi](http://www.raspberrypi.org)  
+- [designboom](http://www.designboom.com)  
 - [Geeks are Sexy Technology News](http://www.geeksaresexy.net)  
 - [TinyHacker](http://tinyhacker.com)  
 - [Wired Science » Science Blogs](http://www.wired.com/wiredscience)  
@@ -76,6 +80,7 @@
 - [Vimeo Staff Blog](http://vimeo.com/blog)  
 - [Geek.com](http://www.geek.com)  
 - [Steve Lambert](http://visitsteve.com)  
+- [F.A.T.](http://fffff.at)  
 - [aptgetupdateDE](http://www.aptgetupdate.de)  
 - [Indiskretion Ehrensache](http://www.indiskretionehrensache.de)  
 - [netzpolitik.org](https://netzpolitik.org)  
@@ -100,9 +105,11 @@
 - [LawSchoolMatt.com](http://www.lawschoolmatt.com)  
 - [Christopher Lauer](http://www.christopherlauer.de)  
 - [REAS.com / Blog](http://reas.com/blog)  
+- [today and tomorrow](http://www.todayandtomorrow.net)  
 - [Soulwire](http://blog.soulwire.co.uk)  
 - [Code & form](http://workshop.evolutionzone.com)  
 - [Computational Design Lab](http://code.arc.cmu.edu)  
+- [Interactive Architecture dot Org](http://www.interactivearchitecture.org)  
 - [Ken Shirriff's blog](http://www.righto.com/)  
 - [Information Is Beautiful](http://www.informationisbeautiful.net)  
 - [Kitbashed](http://kitbashed.com/)  
@@ -115,6 +122,7 @@
 - [R-bloggers](http://www.r-bloggers.com)  
 - [Nerdcore](http://www.crackajack.de)  
 - [Pinboard (ttscoff)](https://pinboard.in/u:ttscoff/public/)  
+- [Running with Data](http://runningwithdata.com/)  
 - [stamen design - the next most obvious thing](http://content.stamen.com)  
 - [Natural Earth](http://www.naturalearthdata.com)  
 - [this is onformative a studio for generative design](http://www.onformative.com)  
@@ -164,10 +172,12 @@
 - [Fritzing Blog](http://blog.fritzing.org)  
 - [The Kickstarter Tumblr](http://kickstarter.tumblr.com/)  
 - [Tim Cole's InDesign BackChannel](http://blogs.adobe.com/indesignchannel)  
+- [iStrategyLabs - A Digital Agency That Invents Solutions Online and Off](http://istrategylabs.com)  
 - [iFixit](http://ifixit.org)  
 - [hello.](http://www.tigoe.net/blog)  
 - [Font Squirrel Free Font Updates](http://fontsquirrel.com)  
 - [The Julia Blog](http://julialang.org/blog)  
+- [interaction design](http://interactiondesign.wordpress.com)  
 - [Open Source PR - Das Oseon-Blog](http://www.opensourcepr.de)  
 - [Nautilus](http://nautil.us/rss/all)  
 - [geekiriki](http://geekiriki.blogspot.com/)  
@@ -203,7 +213,6 @@
 - [Internet Rights & Principles Coalition » Blog](http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Finternetrightsandprinciples.org%2Fblog%2Ffeed)  
 - [The good times keep coming](http://www.leonardsouza.com)  
 - [AExperimentsAExperiments | AExperiments](http://www.kinecttopin.com)  
-- [k u n s t        u n ( d )         s i n n](http://www.kunstundsinn.de)  
 - [gutsblow/satya meka - Archive](http://www.gutsblow.com/)  
 - [The-Geo-Beast](http://fabiantheblind.github.com/The-Geo-Beast//)  
 - [VC blog](http://www.visualcomplexity.com/vc/blog)  
@@ -227,7 +236,6 @@
 - [PDXIII](http://pdxiii.tumblr.com/)  
 - [Fabian Morón Zirfas](http://www.behance.net/fabiantheblind)  
 - [fabianthetumblr](http://fabiantheblind.tumblr.com/)  
-- [Private Feed for fabiantheblind](https://github.com/fabiantheblind)  
 - [Colecandoo!](http://colecandoo.wordpress.com)  
 - [InDesign-Blog](http://www.indesign-blog.de)  
 - [rübiarts](http://www.ruebiarts.de)  
@@ -244,6 +252,7 @@
 - [milligramme](http://milligramme.github.io/)  
 - [Adobe Community : All Content - Premiere Pro SDK](http://forums.adobe.com/community/premiere/sdk)  
 - [Kivy Planet](http://kivy.org/planet)  
+- [D. Kriesel](http://www.dkriesel.com/)  
 - [Physical Computing](http://www.physical-computing.de/blog)  
 - [macgrunt](http://macgrunt.com)  
 - [AE I Owe You](http://aeioweyou.blogspot.com/)  
@@ -254,6 +263,7 @@
 - [Pete Warden's blog](http://petewarden.com/)  
 - [Spatial.ly](http://spatial.ly)  
 - [Adobe Community : All Content - Extension Builder 3](http://forums.adobe.com/community/labs/extensionbuilder3)  
+- [Technical Machine](http://blog.technical.io/)  
 - [CinemaPlugins.com](http://cinemaplugins.com)  
 - [kenfrederick](http://blog.kennethfrederick.de/)  
 - [Adobe Community : Discussion List - Creative Suite Extension Builder](http://forums.adobe.com/community/creativesuites/extensionbuilder?view=discussions)  
@@ -272,6 +282,7 @@
 - [Untitled RSS Feed](http://blog.pdxiii.com)  
 - [The MagPi](http://www.themagpi.com)  
 - [maison playground](http://blog.maisongb.com)  
+- [(No title)](http://blog.spark.io/)  
 - [Tom MacWright](http://www.macwright.org)  
 - [benjamin grosser](http://bengrosser.com/blog/)  
 - [Stefanie Mueller](http://stefaniemueller.org)  
@@ -315,12 +326,32 @@
 - [Idle Hands Project Archive](http://www.idlehandsproject.com)  
 - [Swift Blog - Apple Developer](http://developer.apple.com/swift/blog/)  
 - [Adobe Community: Message List - batch-find-and-replace.jsx](https://forums.adobe.com/community/indesign/indesign_scripting?view=discussions)  
+- [Creative tool development for After Effects & motion design, based in Paris.](http://motionboutique.com/blog/)  
+- [relayr blog](http://blog.relayr.io/)  
+- [Quasado on Medium](https://medium.com/@quasado)  
+- [Natron](http://natron.inria.fr)  
+- [Kitronyx - Blog](http://www.kitronyx.com/blog)  
+- [PHONEBLOKS.COM](http://blog.phonebloks.com/)  
+- [TinyCircuits Blog](https://tiny-circuits.com/blog/)  
+- [reactTIVision - Recent posts to No Camera Found - Mac OS X v10.9.4](http://sourceforge.net/p/reactivision/discussion/515398/thread/940e3138/)  
+- [reacTIVision Recent posts to Discussion](http://sourceforge.net/p/reactivision/discussion/)  
+- [Tangible Music Group](http://interface.ufg.ac.at/tmg)  
+- [THE LIGHT SURGEONS](http://www.lightsurgeons.com/)  
+- [10K microscope project updates blog - Foldscope: Origami based print and fold paper-microscope](http://www.foldscope.com/10kmicroscope-project-blog/)  
+- [Let's Encrypt](https://letsencrypt.org//)  
+- [Complex Data VisualizedComplex Data Visualized](http://complexdatavisualized.com/)  
+- [Tookii](http://www.tookii.de/)  
+- [Kommentare für Tookii](http://www.tookii.de/)  
+
 ##Adobe forums
+
 - [Adobe Community : All Content - After Effects SDK](http://forums.adobe.com/community/aftereffects_general_discussion/aftereffects_sdk)  
 - [Adobe Community : All Content - Premiere Pro SDK](http://forums.adobe.com/community/premiere/sdk)  
 - [Adobe Community : All Content - Extension Builder 3](http://forums.adobe.com/community/labs/extensionbuilder3)  
 - [Adobe Community : Discussion List - Creative Suite Extension Builder](http://forums.adobe.com/community/creativesuites/extensionbuilder?view=discussions)  
+
 ##after effects
+
 - [an After Effects Portal](http://aeportal.blogspot.com/)  
 - [Prolost](http://prolost.com/blog/)  
 - [Video Copilot Blog](http://www.videocopilot.net/blog)  
@@ -352,16 +383,29 @@
 - [The latest news from the Foundry](http://www.thefoundry.co.uk/)  
 - [AE I Owe You](http://aeioweyou.blogspot.com/)  
 - [Animation Paper](http://animationpaper.com/)  
+- [Creative tool development for After Effects & motion design, based in Paris.](http://motionboutique.com/blog/)  
+
+##Art
+
+- [F.A.T.](http://fffff.at)  
+- [THE LIGHT SURGEONS](http://www.lightsurgeons.com/)  
+
 ##Code
-- [Private Feed for fabiantheblind](https://github.com/fabiantheblind)  
+
 - [Active questions tagged basil.js - Stack Overflow](http://stackoverflow.com/questions/tagged/?tagnames=basil.js&sort=active)  
 - [GitHub Showcases](https://github.com/showcases)  
 - [Private Feed for fabiantheblind](https://github.com/fabiantheblind)  
+- [reactTIVision - Recent posts to No Camera Found - Mac OS X v10.9.4](http://sourceforge.net/p/reactivision/discussion/515398/thread/940e3138/)  
+- [reacTIVision Recent posts to Discussion](http://sourceforge.net/p/reactivision/discussion/)  
+
 ##coding
+
 - [Coding Horror](http://www.codinghorror.com/blog/)  
+- [Rands In Repose](http://www.randsinrepose.com/)  
 - [The GitHub Blog](https://github.com/blog)  
 - [TextMate Blog](http://blog.macromates.com)  
 - [Tom Preston-Werner](http://tom.preston-werner.com/)  
+- [DailyJS](http://dailyjs.com)  
 - [Andre's Notes](http://notes.torrez.org/)  
 - [Macdrifter](http://www.macdrifter.com)  
 - [And now it’s all this](http://www.leancrew.com/all-this)  
@@ -394,17 +438,22 @@
 - [git-fu](http://gitfu.wordpress.com)  
 - [R-bloggers](http://www.r-bloggers.com)  
 - [Pinboard (ttscoff)](https://pinboard.in/u:ttscoff/public/)  
+- [Running with Data](http://runningwithdata.com/)  
+- [this is onformative a studio for generative design](http://www.onformative.com)  
 - [Gittip Blog](http://blog.gittip.com/)  
 - [information aesthetics](http://infosthetics.com/)  
 - [Creative Workflow Hacks](http://www.creative-workflow-hacks.com)  
 - [flaviocopes.com](http://flaviocopes.com)  
 - [thedofl's playground](http://www.thedofl.com/blog)  
+- [jtnimoy.net](http://www.jtnimoy.net)  
 - [The Gitorious Blog](http://blog.gitorious.org)  
 - [Learning R](http://learnr.wordpress.com)  
 - [open.NASA](http://open.nasa.gov)  
 - [MIT Media Lab Events and Highlights](http://www.media.mit.edu/homepage-rss/feed)  
+- [iStrategyLabs - A Digital Agency That Invents Solutions Online and Off](http://istrategylabs.com)  
 - [hello.](http://www.tigoe.net/blog)  
 - [The Julia Blog](http://julialang.org/blog)  
+- [interaction design](http://interactiondesign.wordpress.com)  
 - [gridwriter](http://gridwriter.com/)  
 - [Pinboard (mbuckbee)](https://pinboard.in/u:mbuckbee/)  
 - [assertTrue( )](http://asserttrue.blogspot.com/)  
@@ -415,6 +464,7 @@
 - [VC blog](http://www.visualcomplexity.com/vc/blog)  
 - [milligramme](http://milligramme.github.io/)  
 - [Kivy Planet](http://kivy.org/planet)  
+- [D. Kriesel](http://www.dkriesel.com/)  
 - [Physical Computing](http://www.physical-computing.de/blog)  
 - [macgrunt](http://macgrunt.com)  
 - [WordCram.org](http://wordcram.org)  
@@ -429,15 +479,28 @@
 - [Atom Blog](http://blog.atom.io/)  
 - [Daniel Shiffman BLog](http://shiffman.net/blog/)  
 - [Dpt. » Languages » English](http://dpt.co)  
+- [Tangible Music Group](http://interface.ufg.ac.at/tmg)  
+- [Complex Data VisualizedComplex Data Visualized](http://complexdatavisualized.com/)  
+
+##comic
+
+- [xkcd](http://blog.xkcd.com)  
+- [Indexed](http://thisisindexed.com)  
+
 ##cran
+
 - [Learning R](http://learnr.wordpress.com)  
 - [Spatial.ly](http://spatial.ly)  
 - [Fells Stats](http://blog.fellstat.com)  
+
 ##design
+
 - [Dustin Curtis](http://dcurt.is/)  
 - [Emily Chang - Designer](http://emilychang.com)  
 - [visualcomplexity.com](http://www.visualcomplexity.com)  
 - [The League's Typelog](http://blog.theleagueofmoveabletype.com/)  
+- [Co.Design](http://www.fastcodesign.com)  
+- [designboom](http://www.designboom.com)  
 - [Nadya Mira](http://nadyamira.blogspot.com/)  
 - [This Day In Tech](http://www.wired.com/thisdayintech)  
 - [The Curious Brain](http://thecuriousbrain.com)  
@@ -446,9 +509,10 @@
 - [Vimeo Staff Blog](http://vimeo.com/blog)  
 - [Steve Lambert](http://visitsteve.com)  
 - [Teehan+LaxBlog | Teehan+Lax](http://www.teehanlax.com)  
+- [today and tomorrow](http://www.todayandtomorrow.net)  
+- [Interactive Architecture dot Org](http://www.interactivearchitecture.org)  
 - [Information Is Beautiful](http://www.informationisbeautiful.net)  
 - [Kitbashed](http://kitbashed.com/)  
-- [this is onformative a studio for generative design](http://www.onformative.com)  
 - [Latest News Articles from Digital Arts](http://digitalartsonline.co.uk/news/)  
 - [Photo Blog Stop](http://photoblogstop.com)  
 - [BerlinDesignBlog](http://www.berlindesignblog.de)  
@@ -473,7 +537,10 @@
 - [creating#data - Interfacdesign und Interactiondesign Blog](http://creatingdata.org)  
 - [Newsfeed](http://letterinberlin.de/de/feed)  
 - [Dpt. » Languages » English](http://dpt.co)  
+- [THE LIGHT SURGEONS](http://www.lightsurgeons.com/)  
+
 ##FHP
+
 - [Stream [Incom Stream]](https://incom.org/action/rss/stream)  
 - [Schwarzes Brett [Incom Blackboard]](https://incom.org/action/rss/blackboard)  
 - [Physical Interaction Design - Grundlagen [Incom Workspace]](https://incom.org/action/rss/workspace/4806)  
@@ -482,16 +549,30 @@
 - [Interface Werkstatt Blockseminar WS 2013 2014 [Incom Workspace]](https://incom.org/action/rss/workspace/4842)  
 - [Eingabe, Ausgabe. Grundlagen der prozessorientierten Gestaltung [Incom Workspace]](https://incom.org/action/rss/workspace/5122)  
 - [Interface Werkstatt Blockseminar SoSe 2014 [Incom Workspace]](https://incom.org/action/rss/workspace/5242)  
+- [Tookii](http://www.tookii.de/)  
+- [Kommentare für Tookii](http://www.tookii.de/)  
+
+##foldscope
+
+- [10K microscope project updates blog - Foldscope: Origami based print and fold paper-microscope](http://www.foldscope.com/10kmicroscope-project-blog/)  
+
 ##fonts
+
 - [Font Squirrel Free Font Updates](http://fontsquirrel.com)  
+
 ##footage
+
 - [The Public Domain Review](http://publicdomainreview.org)  
+
 ##friends
+
 - [BLACK HOLE SUN TOUR 2012](http://blackholesuntour.tumblr.com/)  
 - [Uploads by forseesense](http://www.youtube.com/channel/UC4pqXaLybhCN8zvax48i2SQ/videos)  
 - [dariusz](http://dariusz.me/)  
 - [User PDXIII - Stack Overflow](http://stackoverflow.com/users/1728652)  
+
 ##InDesign
+
 - [Indiscripts](http://www.indiscripts.com/)  
 - [Ajar Productions](http://ajarproductions.com/blog)  
 - [InDesign SDK](http://blogs.adobe.com/indesignsdk)  
@@ -502,13 +583,13 @@
 - [rübiarts](http://www.ruebiarts.de)  
 - [Adobe InDesign Skriptwerkstatt - HilfDirSelbst.ch](http://www.hilfdirselbst.ch/foren/Adobe_InDesign_Skriptwerkstatt_Forum_61)  
 - [Adobe Community : Discussion List - InDesign Scripting](http://forums.adobe.com/community/indesign/indesign_scripting?view=discussions)  
+
 ##Main Folder
+
 - [Joel on Software](http://www.joelonsoftware.com)  
-- [Rands In Repose](http://www.randsinrepose.com/)  
 - [TextMate Blog](http://blog.macromates.com)  
 - [Journal](http://colly.com/)  
 - [Latest](http://fathom.info/latest)  
-- [neusprech.org](http://neusprech.org)  
 - [This Day In Tech](http://www.wired.com/thisdayintech)  
 - [Steve Lambert](http://visitsteve.com)  
 - [Knowledge Brings Fear](http://frank.geekheim.de)  
@@ -519,12 +600,10 @@
 - [REAS.com / Blog](http://reas.com/blog)  
 - [Soulwire](http://blog.soulwire.co.uk)  
 - [The Lunatic Fringe](http://tim.geekheim.de)  
-- [this is onformative a studio for generative design](http://www.onformative.com)  
 - [Not Safe For Work](http://not-safe-for-work.de)  
 - [Jacob Jung Blog](http://jacobjung.wordpress.com)  
 - [MacRabbit Blog](http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fmacrabbit.com%2Fblog%2Ffeed%2F)  
 - [Latest news](http://fritzing.org/)  
-- [jtnimoy.net](http://www.jtnimoy.net)  
 - [Scripting Illustrator](http://js4ai.blogspot.com/)  
 - [andrewANDORU. . .](http://www.andrewandoru.com)  
 - [the hacker formerly known as samy](http://sonofsamy.wordpress.com)  
@@ -543,14 +622,17 @@
 - [miekd](http://miekd.com)  
 - [Internet Rights & Principles Coalition » Blog](http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Finternetrightsandprinciples.org%2Fblog%2Ffeed)  
 - [The good times keep coming](http://www.leonardsouza.com)  
-- [k u n s t        u n ( d )         s i n n](http://www.kunstundsinn.de)  
 - [gutsblow/satya meka - Archive](http://www.gutsblow.com/)  
 - [The-Geo-Beast](http://fabiantheblind.github.com/The-Geo-Beast//)  
 - [pdxiii on scriptogr.am](http://scriptogr.am/pdxiii)  
 - [Bokko.nl](http://www.bokko.nl)  
+
 ##maker
+
 - [Mr Beam - DIY Laser Development](http://blog.mr-beam.org/)  
+
 ##maps
+
 - [NASA Earth Observatory](http://earthobservatory.nasa.gov/)  
 - [stamen design - the next most obvious thing](http://content.stamen.com)  
 - [Natural Earth](http://www.naturalearthdata.com)  
@@ -558,14 +640,23 @@
 - [vizzuality blog](http://blog.vizzuality.com/)  
 - [Blog - MapBox](https://www.mapbox.com/blog/)  
 - [Atlas of Prejudice](http://atlasofprejudice.tumblr.com/)  
+
 ##motion
+
 - [CinemaPlugins.com](http://cinemaplugins.com)  
+- [Natron](http://natron.inria.fr)  
+
 ##music
+
 - [Free Music Archive Blog](http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffreemusicarchive.org%2Fblog.atom)  
 - [Brad Sucks](http://www.bradsucks.net)  
+
 ##_my_projects
+
 - [Adobe Community: Message List - batch-find-and-replace.jsx](https://forums.adobe.com/community/indesign/indesign_scripting?view=discussions)  
+
 ##news
+
 - [Daring Fireball](http://daringfireball.net/)  
 - [DOGHOUSE](http://thedoghousediaries.com)  
 - [kung fu grippe](http://www.kungfugrippe.com/)  
@@ -581,10 +672,14 @@
 - [Web at 25: News and Updates](http://www.webat25.org/news/tbl-web25-welcome)  
 - [FiveThirtyEightFiveThirtyEight | Features](http://fivethirtyeight.com/)  
 - [TrapCrunch](http://trapcrunch.com/)  
+
 ##pdxiii
+
 - [PDXIII](http://pdxiii.tumblr.com/)  
 - [Untitled RSS Feed](http://blog.pdxiii.com)  
+
 ##physical computing
+
 - [MAKE](http://blog.makezine.com)  
 - [adafruit industries blog](http://www.adafruit.com/blog)  
 - [IEEE Spectrum Recent Content full text](http://spectrum.ieee.org)  
@@ -594,8 +689,10 @@
 - [Geek Gurl Diaries](http://geekgurldiaries.blogspot.com/)  
 - [Electronic Circuits and Diagram-Electronics Projects and Design](http://www.circuitstoday.com)  
 - [KOBAKANT](http://www.kobakant.at/)  
+- [Technical Machine](http://blog.technical.io/)  
 - [Arduino Tutorial – Die Einführung in den Umgang mit Arduino. | Arduino Tutorial – Die Einführung in den Umgang mit Arduino.](http://www.arduino-tutorial.de)  
 - [Lamja.com](http://www.lamja.com/)  
+- [(No title)](http://blog.spark.io/)  
 - [Electroninks » Blog](http://www.electroninks.com/category/blog/)  
 - [Make It @ Your Library blogs](http://makeitatyourlibrary.org/blog)  
 - [Tindie Blog Feed](https://www.tindie.com/blog)  
@@ -606,7 +703,12 @@
 - [Engineering with Jazz](http://www.engineeringwithjazz.com/)  
 - [Into Robotics](http://www.intorobotics.com/)  
 - [Idle Hands Project Archive](http://www.idlehandsproject.com)  
+- [relayr blog](http://blog.relayr.io/)  
+- [Kitronyx - Blog](http://www.kitronyx.com/blog)  
+- [TinyCircuits Blog](https://tiny-circuits.com/blog/)  
+
 ##politrix
+
 - [Threat Level](http://www.wired.com/threatlevel)  
 - [Fefes Blog](http://blog.fefe.de/)  
 - [neusprech.org](http://neusprech.org)  
@@ -620,28 +722,40 @@
 - [Piratenpartei Berlin](http://berlin.piratenpartei.de)  
 - [Dead Drops](http://deaddrops.com)  
 - [Logbuch:Netzpolitik](http://logbuch-netzpolitik.de)  
+
 ##portfolio
+
 - [Fabian Morón Zirfas](http://www.behance.net/fabiantheblind)  
 - [fabianthetumblr](http://fabiantheblind.tumblr.com/)  
 - [fabiantheblogger](http://fabiantheblind.github.io/)  
+
 ##RaspberryPi
+
 - [Raspberry Pi](http://www.raspberrypi.org)  
 - [The MagPi](http://www.themagpi.com)  
 - [ RPi-Experiences](http://rpi-experiences.blogspot.fr/)  
 - [IndieCity Blog](http://blog.indiecity.com)  
 - [IndieCity Latest Projects for Raspberry Pi](http://store.raspberrypi.com/projects)  
+
 ##robots
+
 - [Into Robotics](http://www.intorobotics.com/)  
+
 ##sience
+
 - [PHD Comics](http://www.phdcomics.com)  
 - [Astrodicticum Simplex](http://www.scienceblogs.de/astrodicticum-simplex/)  
 - [Wired Science](http://www.wired.com/wiredscience)  
 - [Wired Science » Science Blogs](http://www.wired.com/wiredscience)  
 - [Nautilus](http://nautil.us/rss/all)  
+
 ##software
+
 - [Under The Microscope](http://weblog.rogueamoeba.com)  
 - [Sublime Text Tips](http://sublimetexttips.com)  
+
 ##tech
+
 - [Tools and Toys](http://toolsandtoys.net)  
 - [GigaOM](http://gigaom.com)  
 - [OS X Daily](http://osxdaily.com)  
@@ -652,6 +766,7 @@
 - [MultiTaction](http://www.multitaction.com)  
 - [Geek.com](http://www.geek.com)  
 - [aptgetupdateDE](http://www.aptgetupdate.de)  
+- [Interactive Architecture dot Org](http://www.interactivearchitecture.org)  
 - [Bocoup Blog](http://weblog.bocoup.com/feed)  
 - [NVIDIA](http://blogs.nvidia.com/)  
 - [Learning OS X](http://www.learningosx.com/)  
@@ -666,19 +781,28 @@
 - [Electroninks](http://www.electroninks.com/category/blog/)  
 - [ProtonMail Blog](https://protonmail.ch/blog/)  
 - [Swift Blog - Apple Developer](http://developer.apple.com/swift/blog/)  
+- [Quasado on Medium](https://medium.com/@quasado)  
+- [PHONEBLOKS.COM](http://blog.phonebloks.com/)  
+- [Let's Encrypt](https://letsencrypt.org//)  
+
 ##video
+
 - [Vimeo Staff Blog](http://vimeo.com/blog)  
 - [Greyscalegorilla](http://greyscalegorilla.com/blog)  
 - [TrapcodeShareLog](http://www.trapcode.com/sharelog/)  
 - [NFB/blog](http://blog.nfb.ca/)  
+
 ##WebDesign
+
 - [Bootstrap](http://blog.getbootstrap.com)  
 - [Webmonkey](http://www.webmonkey.com)  
 - [Line25](http://line25.com)  
 - [Codrops](http://tympanus.net/codrops)  
 - [Blog.SpoonGraphics](http://blog.spoongraphics.co.uk)  
 - [Web Design Ledger](http://webdesignledger.com)  
+
 ##xkcd
+
 - [xkcd.com](http://xkcd.com/)  
 - [xkcd](http://blog.xkcd.com)  
 - [What If?](https://what-if.xkcd.com)  

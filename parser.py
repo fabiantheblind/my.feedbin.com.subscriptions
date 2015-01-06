@@ -7,7 +7,7 @@ f = codecs.open("links.md","w","utf-8")
 for tag in tags:
     # print tag['htmlurl']
     if tag.get('htmlurl') is None:
-        f.write("##" + tag.get('title')+ "\n")
+        f.write("\n##" + tag.get('title')+ "\n\n")
         # print "##" + tag.get('title')
     else:
         f.write("- ["+tag.get('text')+"]("+tag.get('htmlurl')+")  \n")
